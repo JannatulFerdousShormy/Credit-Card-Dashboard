@@ -32,3 +32,5 @@ Visual storytelling through charts, tables, and KPIs
 
 
 ✅ Built with PostgreSQL + Power BI + DAX
+![Dashboard](https://github.com/JannatulFerdousShormy/Credit-Card-Dashboard/blob/a7baa652921498f1022c97c17381fca308bf1fcf/Card_Transaction.jpg )
+![Dashboard](https://github.com/JannatulFerdousShormy/Credit-Card-Dashboard/blob/a7baa652921498f1022c97c17381fca308bf1fcf/Card_customer.jpg)
